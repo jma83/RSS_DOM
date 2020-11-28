@@ -20,7 +20,7 @@ public class Practica_RSS_DOM {
         String[] urlEntrada = {"https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
             "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"};
         
-        run(urlEntrada[1]);
+        run(urlEntrada[0]);
         //practicaDOM.run(urlEntrada[1]);
         
     }
